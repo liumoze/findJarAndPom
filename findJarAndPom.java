@@ -1,4 +1,3 @@
-package com.liumoze.spring.beans.factory.readxml;
 
 import java.io.File;
 import java.text.ParseException;
